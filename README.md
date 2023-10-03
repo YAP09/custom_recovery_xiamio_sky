@@ -1,5 +1,5 @@
 # Redmi 12 5G / Poco M6 Pro 5G
-![Redmi 12 5g/poco m6 Pro 5g](content://com.brave.browser.FileProvider/images/screenshot/16963527203418168766535750694788.jpg)
+![Redmi 12 5g/poco m6 Pro 5g]([conte](https://i.ibb.co/sKWgQwm/254973-pocom6provsredmi125g.jpg)
 | Device                  | Redmi 12 5G/poco m6 pro 5G (sky)                                            |
 | ----------------------- | ---------------------------------------------------------|
 | chipset                 | Qualcomm Snapdragon 4 Gen 2 (4 nm)                      |      
